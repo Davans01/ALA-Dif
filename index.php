@@ -5,12 +5,16 @@
     <?php include("include/head.php"); ?>
     </head>
     <body>
+        <header>
+        <!-- Include header.php -->
+        <?php include("include/header.php"); ?>
+        </header>
 
 
 
-
-<footer>
-<!-- Include footer.php -->
-<?php include("include/footer.php"); ?>
-</footer>
+        <footer>
+            <!-- Include footer.php -->
+            <?php include("include/footer.php"); ?>
+        </footer>
+    </body>
 </html>
