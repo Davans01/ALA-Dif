@@ -1,4 +1,5 @@
 <header>
+    <!-- Nav bar -->
     <nav>
         <ul>
             <div id="Homebtn"><li><a href="index.php">Home</a></li></div>
