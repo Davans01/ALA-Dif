@@ -11,6 +11,7 @@
         <?php include("include/header.php") ?>
         </header>
 
+<<<<<<< HEAD
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum ante sit amet tortor malesuada, ut ultricies diam feugiat. Integer cursus, lorem eget malesuada gravida, elit nisl fermentum nulla, fringilla porttitor turpis ipsum id risus. Duis eleifend dictum purus, sed egestas ipsum tristique nec. Fusce sed tempor tellus.<br>
            Duis vitae nunc laoreet, tincidunt diam quis, sagittis tellus. Mauris congue urna et massa maximus, ultricies cursus ligula semper. Cras enim elit, tempus molestie feugiat sed, laoreet ut lectus. Nunc urna elit, cursus sit amet fringilla id, semper vel lacus. <br>
            Maecenas vel purus finibus, tempor dolor id, condimentum diam. Nunc lacus diam, viverra vel pellentesque eu, mollis vel tortor. Donec sollicitudin libero mi, eget viverra mauris cursus ac. Praesent volutpat ligula lacus, in vulputate dolor euismod sit amet. <br>
@@ -26,6 +27,20 @@
            Duis pretium pharetra dignissim. Vestibulum ac ipsum molestie, vehicula purus vitae, semper nisl. Nulla facilisi. Aenean justo lectus, vulputate nec dictum ut, iaculis sit amet enim. <br>
            Suspendisse neque eros, consectetur et massa at, commodo viverra justo. Suspendisse viverra tortor a velit laoreet imperdiet. Donec purus sapien, consequat eget dictum viverra, ornare sit amet metus. Duis quis metus mauris.
            Aliquam faucibus arcu nisi, quis vehicula urna gravida quis. Ut a finibus ligula. Ut suscipit eget lectus id aliquet. Cras consequat enim at sem pellentesque tincidunt. Vivamus in euismod enim. Quisque auctor tortor vitae mauris tincidunt, eu commodo enim porta. Pellentesque bibendum accumsan volutpat. Integer vel nisl vestibulum, viverra leo nec, rhoncus sapien. Duis egestas sollicitudin sem, ac dignissim velit condimentum non. Proin quis varius arcu. Curabitur nec enim quis nunc suscipit condimentum. Mauris fringilla aliquam quam, a ultrices justo semper vel.
+=======
+        <p>Welkom op onze website JoinUp. <br> <br>
+           Ben jij een gamer en wil je vrienden maken in de buurt? Dit kan met onze website. <br>
+           Op deze website kunt u eigen LAN Party's organiseren, om van de gamers in de buurt, vrienden te maken. 
+        <p>
+
+
+
+
+        <p>Populaire games: <br>
+           League of legends <img src="image/lol.jpg" alt="League of Legends"> <br>
+           Counterstrike: Global Offence <img src="image/csgo.jpg" alt="Counterstrike: Global Offence"> <br>
+           Rainbow Six Siege <img src="image/siege.jpg" alt="Rainbow Six Siege"> <br>
+>>>>>>> 5f4122a2540a6cb07022982faf5cff75c68a43d8
 
         <footer>
             <!-- Include footer.php -->
