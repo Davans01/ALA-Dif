@@ -2,12 +2,13 @@
 <html lang="nl">
     <head>
     <!-- Include head.php -->
-    <?php include("include/head.php"); ?>
+    <?php include("include/head.php") ?>
     </head>
     <body>
         <header>
         <!-- Include header.php -->
         <?php include("include/header.php"); ?>
+        <?php include("include/header.php") ?>
         </header>
 
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum ante sit amet tortor malesuada, ut ultricies diam feugiat. Integer cursus, lorem eget malesuada gravida, elit nisl fermentum nulla, fringilla porttitor turpis ipsum id risus. Duis eleifend dictum purus, sed egestas ipsum tristique nec. Fusce sed tempor tellus.<br>
@@ -24,11 +25,11 @@
            Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin in pulvinar velit. Nullam porttitor odio id purus fermentum, vitae dapibus nisl venenatis.<br>
            Duis pretium pharetra dignissim. Vestibulum ac ipsum molestie, vehicula purus vitae, semper nisl. Nulla facilisi. Aenean justo lectus, vulputate nec dictum ut, iaculis sit amet enim. <br>
            Suspendisse neque eros, consectetur et massa at, commodo viverra justo. Suspendisse viverra tortor a velit laoreet imperdiet. Donec purus sapien, consequat eget dictum viverra, ornare sit amet metus. Duis quis metus mauris.
-           Aliquam faucibus arcu nisi, quis vehicula urna gravida quis. Ut a finibus ligula. Ut suscipit eget lectus id aliquet. Cras consequat enim at sem pellentesque tincidunt. Vivamus in euismod enim. Quisque auctor tortor vitae mauris tincidunt, eu commodo enim porta. Pellentesque bibendum accumsan volutpat. Integer vel nisl vestibulum, viverra leo nec, rhoncus sapien. Duis egestas sollicitudin sem, ac dignissim velit condimentum non. Proin quis varius arcu. Curabitur nec enim quis nunc suscipit condimentum. Mauris fringilla aliquam quam, a ultrices justo semper vel. 
+           Aliquam faucibus arcu nisi, quis vehicula urna gravida quis. Ut a finibus ligula. Ut suscipit eget lectus id aliquet. Cras consequat enim at sem pellentesque tincidunt. Vivamus in euismod enim. Quisque auctor tortor vitae mauris tincidunt, eu commodo enim porta. Pellentesque bibendum accumsan volutpat. Integer vel nisl vestibulum, viverra leo nec, rhoncus sapien. Duis egestas sollicitudin sem, ac dignissim velit condimentum non. Proin quis varius arcu. Curabitur nec enim quis nunc suscipit condimentum. Mauris fringilla aliquam quam, a ultrices justo semper vel.
 
         <footer>
             <!-- Include footer.php -->
-            <?php include("include/footer.php"); ?>
+            <?php include("include/footer.php") ?>
         </footer>
     </body>
 </html>

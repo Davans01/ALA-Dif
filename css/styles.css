@@ -1,7 +1,9 @@
 /* Header */
 
 /* Nav */
-
+body{
+    background-color: orange;
+}
 /* Footer */
 /* To make the footer fixed */
 footer {
