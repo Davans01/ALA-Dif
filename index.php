@@ -19,9 +19,9 @@
 
 
         <p>Populaire games: <br>
-           League of legends <img src="lol.jpg" alt="League of Legends"> <br>
-           Counterstrike: Global Offence <img src="csgo.jpg" alt="Counterstrike: Global Offence"> <br>
-           Rainbow Six Siege <img src="siege.jpg" alt="Rainbow Six Siege"> <br>
+           League of legends <img src="image/lol.jpg" alt="League of Legends"> <br>
+           Counterstrike: Global Offence <img src="image/csgo.jpg" alt="Counterstrike: Global Offence"> <br>
+           Rainbow Six Siege <img src="image/siege.jpg" alt="Rainbow Six Siege"> <br>
 
         <footer>
             <!-- Include footer.php -->
